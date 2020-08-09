@@ -3,7 +3,7 @@
 <h1>COVID-19🦠</h1>
 
 this is a small project analysing covid-19 with the data wich was used in the Johns Hopkins University<br>
-
+![](covid.png)
 
 <a href="https://github.com/CSSEGISandData/COVID-19/">
       data
